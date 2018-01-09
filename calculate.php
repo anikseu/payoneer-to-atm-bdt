@@ -28,7 +28,7 @@ if($usd3>5){
 
 echo '<center><h2> Approximate USD Cost: ';
 echo number_format($usd3, 2); 
-echo '</h2> <br/><br/><a href="/payoneer">Try Again</a></center>'; 
+echo '</h2> <br/><br/><a href="../">Try Again</a></center>'; 
 } 
 
 
