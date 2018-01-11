@@ -44,7 +44,7 @@
     <div class="row clearfix">
     	<div class="col-md-12 table-responsive">
 
-    		<h3> Simplify Payoneer Calculation! Just enter the BDT amount you want to withdraw from Bangladeshi ATM then get the approximate USD cost. This small application will handle fee calculations. The foreign exchange rate is real time with help of <a href="https://finance.google.com/">Google finances</a>.  </h3>
+    		Simplify Payoneer Calculation! Just enter the BDT amount you want to withdraw from Bangladeshi ATM then get the approximate USD cost. This small application will handle fee calculations. The foreign exchange rate is real time with help of <a href="https://finance.google.com/">Google finances</a>. 
 
     		<hr/> 
 
